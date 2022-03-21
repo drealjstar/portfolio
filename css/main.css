@@ -2991,8 +2991,12 @@ input::-moz-focus-inner {
   .masonry__brick {
     padding: 0 10px;
     margin-bottom: 44px;
+    height: 400px;
   }
 
+  .item-folio {
+    max-height: 400px;
+  }
   .item-folio__thumb .thumb-link::after {
     width: 3rem;
     height: 3rem;
