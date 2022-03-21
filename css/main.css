@@ -2814,6 +2814,8 @@ input::-moz-focus-inner {
 
 .item-folio__thumb img {
   vertical-align: bottom;
+  width: 100%;
+
 }
 
 .item-folio__thumb .item-folio__project-link {
